@@ -1,0 +1,3 @@
+enet/DDRNet/weights/best_val.pth
+hrnet18_ocr64_human.pdparams
+enet/Fast-SCNN-pytorch/data/cifar-10-python.tar.gz

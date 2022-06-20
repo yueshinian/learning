@@ -1,0 +1,4 @@
+./data/test0.png 0 
+./data/test1.png  1
+./data/test2.png  2
+./data/test3.png  3

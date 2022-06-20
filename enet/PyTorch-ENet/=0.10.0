@@ -1,0 +1,57 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/ym/anaconda3/envs/enet
+
+  added / updated specs:
+    - cycler
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    pip-21.2.4                 |   py39h06a4308_0         1.8 MB  defaults
+    python-3.9.11              |       h12debd9_2        19.2 MB  defaults
+    setuptools-58.0.4          |   py39h06a4308_0         790 KB  defaults
+    sqlite-3.38.2              |       hc218d9a_0         1.0 MB  defaults
+    tzdata-2022a               |       hda174b7_0         109 KB  defaults
+    ------------------------------------------------------------
+                                           Total:        22.9 MB
+
+The following NEW packages will be INSTALLED:
+
+  _libgcc_mutex      anaconda/pkgs/main/linux-64::_libgcc_mutex-0.1-main
+  _openmp_mutex      anaconda/pkgs/main/linux-64::_openmp_mutex-4.5-1_gnu
+  ca-certificates    anaconda/pkgs/main/linux-64::ca-certificates-2022.3.29-h06a4308_0
+  certifi            anaconda/pkgs/main/linux-64::certifi-2021.10.8-py39h06a4308_2
+  cycler             anaconda/pkgs/main/noarch::cycler-0.11.0-pyhd3eb1b0_0
+  ld_impl_linux-64   anaconda/pkgs/main/linux-64::ld_impl_linux-64-2.35.1-h7274673_9
+  libffi             anaconda/pkgs/main/linux-64::libffi-3.3-he6710b0_2
+  libgcc-ng          anaconda/pkgs/main/linux-64::libgcc-ng-9.3.0-h5101ec6_17
+  libgomp            anaconda/pkgs/main/linux-64::libgomp-9.3.0-h5101ec6_17
+  libstdcxx-ng       anaconda/pkgs/main/linux-64::libstdcxx-ng-9.3.0-hd4cf53a_17
+  ncurses            anaconda/pkgs/main/linux-64::ncurses-6.3-h7f8727e_2
+  openssl            anaconda/pkgs/main/linux-64::openssl-1.1.1n-h7f8727e_0
+  pip                anaconda/pkgs/main/linux-64::pip-21.2.4-py39h06a4308_0
+  python             anaconda/pkgs/main/linux-64::python-3.9.11-h12debd9_2
+  readline           anaconda/pkgs/main/linux-64::readline-8.1.2-h7f8727e_1
+  setuptools         anaconda/pkgs/main/linux-64::setuptools-58.0.4-py39h06a4308_0
+  sqlite             anaconda/pkgs/main/linux-64::sqlite-3.38.2-hc218d9a_0
+  tk                 anaconda/pkgs/main/linux-64::tk-8.6.11-h1ccaba5_0
+  tzdata             anaconda/pkgs/main/noarch::tzdata-2022a-hda174b7_0
+  wheel              anaconda/pkgs/main/noarch::wheel-0.37.1-pyhd3eb1b0_0
+  xz                 anaconda/pkgs/main/linux-64::xz-5.2.5-h7b6447c_0
+  zlib               anaconda/pkgs/main/linux-64::zlib-1.2.11-h7f8727e_4
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+tzdata-2022a         | 109 KB    |            |   0% tzdata-2022a         | 109 KB    | #4         |  15% tzdata-2022a         | 109 KB    | ########## | 100% tzdata-2022a         | 109 KB    | ########## | 100% 
+setuptools-58.0.4    | 790 KB    |            |   0% setuptools-58.0.4    | 790 KB    | 6          |   6% setuptools-58.0.4    | 790 KB    | ########1  |  81% setuptools-58.0.4    | 790 KB    | ########## | 100% 
+sqlite-3.38.2        | 1.0 MB    |            |   0% sqlite-3.38.2        | 1.0 MB    | #7         |  17% sqlite-3.38.2        | 1.0 MB    | ###4       |  34% sqlite-3.38.2        | 1.0 MB    | ########## | 100% 
+pip-21.2.4           | 1.8 MB    |            |   0% pip-21.2.4           | 1.8 MB    | 9          |  10% pip-21.2.4           | 1.8 MB    | ###4       |  34% pip-21.2.4           | 1.8 MB    | #####3     |  53% pip-21.2.4           | 1.8 MB    | #######9   |  79% pip-21.2.4           | 1.8 MB    | ########## | 100% pip-21.2.4           | 1.8 MB    | ########## | 100% 
+python-3.9.11        | 19.2 MB   |            |   0% python-3.9.11        | 19.2 MB   |            |   1% python-3.9.11        | 19.2 MB   | 1          |   2% python-3.9.11        | 19.2 MB   | 2          |   3% python-3.9.11        | 19.2 MB   | 5          |   6% python-3.9.11        | 19.2 MB   | 7          |   8% python-3.9.11        | 19.2 MB   | 9          |  10% python-3.9.11        | 19.2 MB   | #2         |  12% python-3.9.11        | 19.2 MB   | #4         |  14% python-3.9.11        | 19.2 MB   | #5         |  16% python-3.9.11        | 19.2 MB   | #7         |  18% python-3.9.11        | 19.2 MB   | #9         |  20% python-3.9.11        | 19.2 MB   | ##1        |  21% python-3.9.11        | 19.2 MB   | ##3        |  23% python-3.9.11        | 19.2 MB   | ##4        |  25% python-3.9.11        | 19.2 MB   | ##6        |  27% python-3.9.11        | 19.2 MB   | ##8        |  28% python-3.9.11        | 19.2 MB   | ##9        |  30% python-3.9.11        | 19.2 MB   | ###1       |  31% python-3.9.11        | 19.2 MB   | ###2       |  33% python-3.9.11        | 19.2 MB   | ###4       |  34% python-3.9.11        | 19.2 MB   | ###5       |  35% python-3.9.11        | 19.2 MB   | ###7       |  38% python-3.9.11        | 19.2 MB   | ###9       |  39% python-3.9.11        | 19.2 MB   | ####       |  41% python-3.9.11        | 19.2 MB   | ####2      |  42% python-3.9.11        | 19.2 MB   | ####3      |  44% python-3.9.11        | 19.2 MB   | ####5      |  45% python-3.9.11        | 19.2 MB   | ####6      |  47% python-3.9.11        | 19.2 MB   | ####6      |  47% 
